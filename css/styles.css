@@ -16,7 +16,7 @@ header {
 }
 .box-title {
   background-color: #060e17e0;
-  padding: 10px 30px;
+  padding: 10px 50px;
   margin-bottom: 30px;
   text-align: center;
 }
@@ -53,6 +53,12 @@ p {
   max-width: 95px;
 }
 
+.disquette {
+  max-width: 40px;
+  align-self: center;
+  margin-top: 20px;
+}
+
 .cta-container {
   display: flex;
   flex-direction: column;
@@ -70,11 +76,6 @@ p {
 .cta-light {
   background-color: #E3F4FF;
   color: #000;
-}
-
-.disquette {
-  max-width: 40px;
-  align-self: center;
 }
 
 .produits-box {
@@ -98,11 +99,16 @@ h2 {
   font-weight: 300;
 }
 
+h3 {
+  font-size: 23px;
+}
+
 footer {
   background-color: #000;
   color: #777777;
   text-align: center;
   padding: 15px 50px;
+  font-size: 12px;
 }
 
 a {
