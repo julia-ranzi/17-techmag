@@ -16,7 +16,7 @@ header {
   padding: 30px;
 }
 .box-title {
-  background-color: #000;
+  background-color: #060e17e0;
   padding: 10px 30px;
   margin-bottom: 30px;
   text-align: center;
@@ -96,4 +96,8 @@ footer {
   color: #777777;
   text-align: center;
   padding: 15px 50px;
+}
+
+a {
+  text-decoration: none;
 }
