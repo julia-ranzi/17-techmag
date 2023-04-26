@@ -112,6 +112,11 @@ footer {
 }
 
 a {
-  text-decoration: none;
   font-size: 18px;
+  color: black;
+}
+
+footer a {
+  text-decoration: none;
+  color: #E3F4FF;
 }
