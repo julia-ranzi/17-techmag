@@ -28,3 +28,10 @@ img {
   background-color: #E3F4FF;
   color: #000;
 }
+
+.produits-box {
+  background-color: #E3F4FF;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 20px;
+}
