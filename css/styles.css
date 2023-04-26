@@ -82,6 +82,10 @@ p {
   border-radius: 15px;
   padding: 25px;
   margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 .nos-produits {
