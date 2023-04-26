@@ -8,3 +8,23 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.section-light {
+  background-color: #E3F4FF;
+}
+
+.section-dark {
+  background-color: #000;
+}
+
+.cta {
+  background-color: #000;
+  color: #E3F4FF;
+  border-radius: 15px;
+  padding: 15px 20px;
+}
+
+.cta-light {
+  background-color: #E3F4FF;
+  color: #000;
+}
