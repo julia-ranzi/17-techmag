@@ -28,6 +28,10 @@ header {
 
 .section-light {
   background-color: #E3F4FF;
+  text-align: center;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
 }
 
 .section-dark {
@@ -53,11 +57,20 @@ header {
   color: #000;
 }
 
+.disquette {
+  max-width: 15%;
+  align-self: center;
+}
+
 .produits-box {
   background-color: #E3F4FF;
   border-radius: 15px;
   padding: 25px;
   margin: 20px;
+}
+
+h2 {
+  font-size: 30px;
 }
 
 footer {
