@@ -1,7 +1,6 @@
 body {
   max-width: 380px;
   margin: auto;
-  background: #ddd;
   font-family: 'Space Grotesk', sans-serif;
 }
 
@@ -30,7 +29,7 @@ header {
 .section-light {
   background-color: #E3F4FF;
   text-align: center;
-  padding: 40px;
+  padding: 50px 60px;
   display: flex;
   flex-direction: column;
 }
@@ -40,6 +39,10 @@ header {
   display: flex;
   flex-direction: column;
   padding: 50px 20px;
+}
+
+p {
+  font-size: 16px;
 }
 
 .oiseau {
@@ -70,7 +73,7 @@ header {
 }
 
 .disquette {
-  max-width: 15%;
+  max-width: 12%;
   align-self: center;
 }
 
